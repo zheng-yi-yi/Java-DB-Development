@@ -5,13 +5,13 @@ Java数据库开发与实战
 
 ## 学习记录
 
-> - 1、MySQL基础
->   - 1.1、MySQL介绍
->       - [（1）数据库概述](/01-MySQL基础/01-MySQL介绍/01-数据库概述.md)
->       - [（2）Windows下重设root账户密码](/01-MySQL基础/01-MySQL介绍/02-Windows下重设root账户密码.md)
->       - [（3）MySQL配置文件](/01-MySQL基础/01-MySQL介绍/03-配置文件.md)
->   - 1.2、数据库表的相关操作
->       - [（1）SQL概述](/01-MySQL基础/02-数据库表的相关操作/01-SQL-Overview.md)
+> 1. MySQL基础
+>   1. MySQL介绍
+>       1. [数据库概述](/01-MySQL基础/01-MySQL介绍/01-数据库概述.md)
+>       2. [Windows下重设root账户密码](/01-MySQL基础/01-MySQL介绍/02-Windows下重设root账户密码.md)
+>       3. [MySQL配置文件](/01-MySQL基础/01-MySQL介绍/03-配置文件.md)
+>   2. 数据库表的相关操作
+>       1. [SQL概述](/01-MySQL基础/02-数据库表的相关操作/01-SQL-Overview.md)
 
 ## 解题记录
 
