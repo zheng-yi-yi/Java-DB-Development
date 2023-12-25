@@ -15,6 +15,7 @@ Java数据库开发与实战
 >       - [逻辑库与数据表](/01-MySQL基础/02-数据库表的相关操作/02-database-table.md)
 >       - [数据类型](/01-MySQL基础/02-数据库表的相关操作/03-data-types.md)
 >       - [修改表结构](/01-MySQL基础/02-数据库表的相关操作/04-modify-table-structure.md)
+>       - [数据库设计范式](/01-MySQL基础/02-数据库表的相关操作/05-normalization.md)
 
 ## 解题记录
 
