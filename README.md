@@ -4,19 +4,19 @@
 
 </div>
 
-# Java数据库开发与实战
+### Java数据库学习笔记
 
 > - 1、MySQL基础
 >   - 1.1、MySQL介绍
 >       - [数据库概述](./01-MySQL基础/01-MySQL介绍/01-数据库概述.md)
->       - [Windows下重设root账户密码](/01-MySQL基础/01-MySQL介绍/02-Windows下重设root账户密码.md)
->       - [MySQL配置文件](/01-MySQL基础/01-MySQL介绍/03-配置文件.md)
+>       - [Windows下重设root账户密码](./01-MySQL基础/01-MySQL介绍/02-Windows下重设root账户密码.md)
+>       - [MySQL配置文件](./01-MySQL基础/01-MySQL介绍/03-配置文件.md)
 >   - 1.2、数据库表的相关操作
->       - [SQL概述](/01-MySQL基础/02-数据库表的相关操作/01-SQL-Overview.md)
->       - [逻辑库与数据表](/01-MySQL基础/02-数据库表的相关操作/02-database-table.md)
->       - [数据类型](/01-MySQL基础/02-数据库表的相关操作/03-data-types.md)
->       - [修改表结构](/01-MySQL基础/02-数据库表的相关操作/04-modify-table-structure.md)
->       - [数据库设计范式](/01-MySQL基础/02-数据库表的相关操作/05-normalization.md)
+>       - [SQL概述](./01-MySQL基础/02-数据库表的相关操作/01-SQL-Overview.md)
+>       - [逻辑库与数据表](./01-MySQL基础/02-数据库表的相关操作/02-database-table.md)
+>       - [数据类型](./01-MySQL基础/02-数据库表的相关操作/03-data-types.md)
+>       - [修改表结构](./01-MySQL基础/02-数据库表的相关操作/04-modify-table-structure.md)
+>       - [数据库设计范式](./01-MySQL基础/02-数据库表的相关操作/05-normalization.md)
 
 <!-- ## 解题记录
 
