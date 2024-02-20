@@ -1,13 +1,14 @@
-# Java-DB-Development
+<div align="center">
 
-Java数据库开发与实战
+<h1>Java-DB-Development</h1>
 
+</div>
 
-## 学习记录
+# Java数据库开发与实战
 
 > - 1、MySQL基础
 >   - 1.1、MySQL介绍
->       - [数据库概述](/01-MySQL基础/01-MySQL介绍/01-数据库概述.md)
+>       - [数据库概述](./01-MySQL基础/01-MySQL介绍/01-数据库概述.md)
 >       - [Windows下重设root账户密码](/01-MySQL基础/01-MySQL介绍/02-Windows下重设root账户密码.md)
 >       - [MySQL配置文件](/01-MySQL基础/01-MySQL介绍/03-配置文件.md)
 >   - 1.2、数据库表的相关操作
@@ -17,7 +18,7 @@ Java数据库开发与实战
 >       - [修改表结构](/01-MySQL基础/02-数据库表的相关操作/04-modify-table-structure.md)
 >       - [数据库设计范式](/01-MySQL基础/02-数据库表的相关操作/05-normalization.md)
 
-## 解题记录
+<!-- ## 解题记录
 
 > - 选择题
 >  - [（1）基础查询](/00-ProblemSolving/choice-question/01-Basic-Queries.md)
@@ -34,4 +35,4 @@ Java数据库开发与实战
 >  - [（12）安全性和权限](/00-ProblemSolving/choice-question/12-Security-and-Permissions.md)
 >  - [（13）高级查询](/00-ProblemSolving/choice-question/13-Advanced-Queries.md)
 >  - [（14）性能优化](/00-ProblemSolving/choice-question/14-Performance-Optimization.md)
->  - [（15）数据库设计](/00-ProblemSolving/choice-question/15-Database-Design.md)
+>  - [（15）数据库设计](/00-ProblemSolving/choice-question/15-Database-Design.md) -->
